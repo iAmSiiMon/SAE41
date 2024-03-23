@@ -1,0 +1,1164 @@
+dn: uid=lérisno.abelintie,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: lérisno.abelintie
+sn: ABELINTIE
+gn: Lérisno
+cn: Lérisno ABELINTIE
+mobile: 0694541230
+mail: lérisno.abelintie@meublor3.local
+userPassword: alérisno
+
+dn: uid=gregie.adimbo,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: gregie.adimbo
+sn: ADIMBO
+gn: Gregie
+cn: Gregie ADIMBO
+mobile: 231101
+mail: gregie.adimbo@meublor3.local
+userPassword: agregie
+
+dn: uid=françoise.adonin,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: françoise.adonin
+sn: ADONIN
+gn: Françoise
+cn: Françoise ADONIN
+mobile: 0694541215
+mail: françoise.adonin@meublor3.local
+userPassword: afrançoise
+
+dn: uid=julia.albert,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: julia.albert
+sn: ALBERT
+gn: Julia
+cn: Julia ALBERT
+mobile: 0694541212
+mail: julia.albert@meublor3.local
+userPassword: ajulia
+
+dn: uid=josia.andre,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: josia.andre
+sn: ANDRE
+gn: Josia
+cn: Josia ANDRE
+mobile: 0694541218
+mail: josia.andre@meublor3.local
+userPassword: ajosia
+
+dn: uid=andréa.antonetti,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: andréa.antonetti
+sn: ANTONETTI
+gn: Andréa
+cn: Andréa ANTONETTI
+mobile: 0694541221
+mail: andréa.antonetti@meublor3.local
+userPassword: aandréa
+
+dn: uid=alick.aricat,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: alick.aricat
+sn: ARICAT
+gn: Alick
+cn: Alick ARICAT
+mobile: 0694231155
+mail: alick.aricat@meublor3.local
+userPassword: aalick
+
+dn: uid=adriella.atipa,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: adriella.atipa
+sn: ATIPA
+gn: Adriella
+cn: Adriella ATIPA
+mobile: 0694230954
+mail: adriella.atipa@meublor3.local
+userPassword: aadriella
+
+dn: uid=joïx.attomoye,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: joïx.attomoye
+sn: ATTOMOYE
+gn: Joïx
+cn: Joïx ATTOMOYE
+mobile: 0694231041
+mail: joïx.attomoye@meublor3.local
+userPassword: ajoïx
+
+dn: uid=marckelot.beralus,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: marckelot.beralus
+sn: BERALUS
+gn: Marckelot
+cn: Marckelot BERALUS
+mobile: 0694231125
+mail: marckelot.beralus@meublor3.local
+userPassword: bmarckelot
+
+dn: uid=alan.boodie,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: alan.boodie
+sn: BOODIE
+gn: Alan
+cn: Alan BOODIE
+mobile: 0694230957
+mail: alan.boodie@meublor3.local
+userPassword: balan
+
+dn: uid=nathaniel.bordes,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: nathaniel.bordes
+sn: BORDES
+gn: Nathaniel
+cn: Nathaniel BORDES
+mobile: 0694231044
+mail: nathaniel.bordes@meublor3.local
+userPassword: bnathaniel
+
+dn: uid=alexandre.bossus,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: alexandre.bossus
+sn: BOSSUS
+gn: Alexandre
+cn: Alexandre BOSSUS
+mobile: 0694230960
+mail: alexandre.bossus@meublor3.local
+userPassword: balexandre
+
+dn: uid=kristopher.cadelus,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: kristopher.cadelus
+sn: CADELUS
+gn: Kristopher
+cn: Kristopher CADELUS
+mobile: 0694231047
+mail: kristopher.cadelus@meublor3.local
+userPassword: ckristopher
+
+dn: uid=adrien.cavalier,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: adrien.cavalier
+sn: CAVALIER
+gn: Adrien
+cn: Adrien CAVALIER
+mobile: 0694231050
+mail: adrien.cavalier@meublor3.local
+userPassword: cadrien
+
+dn: uid=lukas.cebrian,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: lukas.cebrian
+sn: CEBRIAN
+gn: Lukas
+cn: Lukas CEBRIAN
+mobile: 0694231128
+mail: lukas.cebrian@meublor3.local
+userPassword: clukas
+
+dn: uid=veron.ciceron,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: veron.ciceron
+sn: CICERON
+gn: Veron
+cn: Veron CICERON
+mobile: 0694230963
+mail: veron.ciceron@meublor3.local
+userPassword: cveron
+
+dn: uid=marie.cothenet,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: marie.cothenet
+sn: COTHENET
+gn: Marie
+cn: Marie COTHENET
+mobile: 0694541191
+mail: marie.cothenet@meublor3.local
+userPassword: cmarie
+
+dn: uid=dany.cyrille,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: dany.cyrille
+sn: CYRILLE
+gn: Dany
+cn: Dany CYRILLE
+mobile: 0694231017
+mail: dany.cyrille@meublor3.local
+userPassword: cdany
+
+dn: uid=jonas.delisca,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: jonas.delisca
+sn: DELISCA
+gn: Jonas
+cn: Jonas DELISCA
+mobile: 0694231053
+mail: jonas.delisca@meublor3.local
+userPassword: djonas
+
+dn: uid=mathilde.delohen,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: mathilde.delohen
+sn: DELOHEN
+gn: Mathilde
+cn: Mathilde DELOHEN
+mobile: 0694230966
+mail: mathilde.delohen@meublor3.local
+userPassword: dmathilde
+
+dn: uid=aymerick.duro,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: aymerick.duro
+sn: DURO
+gn: Aymerick
+cn: Aymerick DURO
+mobile: 0694231158
+mail: aymerick.duro@meublor3.local
+userPassword: daymerick
+
+dn: uid=ayoub.errafi,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: ayoub.errafi
+sn: ERRAFI
+gn: Ayoub
+cn: Ayoub ERRAFI
+mobile: 0694231056
+mail: ayoub.errafi@meublor3.local
+userPassword: eayoub
+
+dn: uid=joao.fariasgomesfranca,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: joao.fariasgomesfranca
+sn: FARIAS GOMES FRANCA
+gn: Joao
+cn: Joao FARIAS GOMES FRANCA
+mobile: 0694231059
+mail: joao.fariasgomesfranca@meublor3.local
+userPassword: fjoao
+
+dn: uid=mariedashna.fleurima,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: mariedashna.fleurima
+sn: FLEURIMA
+gn: Marie Dashna
+cn: Marie Dashna FLEURIMA
+mobile: 0694231020
+mail: mariedashna.fleurima@meublor3.local
+userPassword: fmariedashna
+
+dn: uid=clawandz.fleurismat,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: clawandz.fleurismat
+sn: FLEURISMAT
+gn: Clawandz
+cn: Clawandz FLEURISMAT
+mobile: 0694231062
+mail: clawandz.fleurismat@meublor3.local
+userPassword: fclawandz
+
+dn: uid=wendy.fontaine,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: wendy.fontaine
+sn: FONTAINE
+gn: Wendy
+cn: Wendy FONTAINE
+mobile: 0694231131
+mail: wendy.fontaine@meublor3.local
+userPassword: fwendy
+
+dn: uid=kevin.francius,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: kevin.francius
+sn: FRANCIUS
+gn: Kevin
+cn: Kevin FRANCIUS
+mobile: 0694231023
+mail: kevin.francius@meublor3.local
+userPassword: fkevin
+
+dn: uid=thalyna.gajaki,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: thalyna.gajaki
+sn: GAJAKI
+gn: Thalyna
+cn: Thalyna GAJAKI
+mobile: 0694231134
+mail: thalyna.gajaki@meublor3.local
+userPassword: gthalyna
+
+dn: uid=dylan.garcia,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: dylan.garcia
+sn: GARCIA
+gn: Dylan
+cn: Dylan GARCIA
+mobile: 0694231065
+mail: dylan.garcia@meublor3.local
+userPassword: gdylan
+
+dn: uid=andre.ghanie,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: andre.ghanie
+sn: GHANIE
+gn: Andre
+cn: Andre GHANIE
+mobile: 0694231026
+mail: andre.ghanie@meublor3.local
+userPassword: gandre
+
+dn: uid=stéphanie.gipet,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: stéphanie.gipet
+sn: GIPET
+gn: Stéphanie
+cn: Stéphanie GIPET
+mobile: 0694541206
+mail: stéphanie.gipet@meublor3.local
+userPassword: gstéphanie
+
+dn: uid=judivan.golitin,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: judivan.golitin
+sn: GOLITIN
+gn: Judivan
+cn: Judivan GOLITIN
+mobile: 0694231029
+mail: judivan.golitin@meublor3.local
+userPassword: gjudivan
+
+dn: uid=edouardo.gomes,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: edouardo.gomes
+sn: GOMES
+gn: Edouardo
+cn: Edouardo GOMES
+mobile: 0694541233
+mail: edouardo.gomes@meublor3.local
+userPassword: gedouardo
+
+dn: uid=lorenzo.gomesdeoliveira,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: lorenzo.gomesdeoliveira
+sn: GOMES DE OLIVEIRA
+gn: Lorenzo
+cn: Lorenzo GOMES DE OLIVEIRA
+mobile: 0694231068
+mail: lorenzo.gomesdeoliveira@meublor3.local
+userPassword: glorenzo
+
+dn: uid=rod.guerrier,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: rod.guerrier
+sn: GUERRIER
+gn: Rod
+cn: Rod GUERRIER
+mobile: 0694231137
+mail: rod.guerrier@meublor3.local
+userPassword: grod
+
+dn: uid=emran.haniff,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: emran.haniff
+sn: HANIFF
+gn: Emran
+cn: Emran HANIFF
+mobile: 0694231032
+mail: emran.haniff@meublor3.local
+userPassword: hemran
+
+dn: uid=abigaelle.henry,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: abigaelle.henry
+sn: HENRY
+gn: Abigaelle
+cn: Abigaelle HENRY
+mobile: 0694541227
+mail: abigaelle.henry@meublor3.local
+userPassword: habigaelle
+
+dn: uid=wallace.holandadasilva,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: wallace.holandadasilva
+sn: HOLANDA DA SILVA
+gn: Wallace
+cn: Wallace HOLANDA DA SILVA
+mobile: 0694231104
+mail: wallace.holandadasilva@meublor3.local
+userPassword: hwallace
+
+dn: uid=wayland.holandaddasilva,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: wayland.holandaddasilva
+sn: HOLANDA DDA SILVA
+gn: Wayland
+cn: Wayland HOLANDA DDA SILVA
+mobile: 0694231140
+mail: wayland.holandaddasilva@meublor3.local
+userPassword: hwayland
+
+dn: uid=jordan.hyacinthe,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: jordan.hyacinthe
+sn: HYACINTHE
+gn: Jordan
+cn: Jordan HYACINTHE
+mobile: 0694230969
+mail: jordan.hyacinthe@meublor3.local
+userPassword: hjordan
+
+dn: uid=jean-wiskenn.isaac,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: jean-wiskenn.isaac
+sn: ISAAC
+gn: Jean-Wiskenn
+cn: Jean-Wiskenn ISAAC
+mobile: 0694231143
+mail: jean-wiskenn.isaac@meublor3.local
+userPassword: ijean-wiskenn
+
+dn: uid=lisa.jacob,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: lisa.jacob
+sn: JACOB
+gn: Lisa
+cn: Lisa JACOB
+mobile: 0694541224
+mail: lisa.jacob@meublor3.local
+userPassword: jlisa
+
+dn: uid=loveanson.jean,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: loveanson.jean
+sn: JEAN
+gn: Love Anson
+cn: Love Anson JEAN
+mobile: 0694231146
+mail: loveanson.jean@meublor3.local
+userPassword: jloveanson
+
+dn: uid=christophe.jean,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: christophe.jean
+sn: JEAN
+gn: Christophe
+cn: Christophe JEAN
+mobile: 0694541188
+mail: christophe.jean@meublor3.local
+userPassword: jchristophe
+
+dn: uid=jordane.jean-marie,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: jordane.jean-marie
+sn: JEAN-MARIE
+gn: Jordane
+cn: Jordane JEAN-MARIE
+mobile: 0694231071
+mail: jordane.jean-marie@meublor3.local
+userPassword: jjordane
+
+dn: uid=walter.jules,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: walter.jules
+sn: JULES
+gn: Walter
+cn: Walter JULES
+mobile: 0694231074
+mail: walter.jules@meublor3.local
+userPassword: jwalter
+
+dn: uid=logan.kleinholtz,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: logan.kleinholtz
+sn: KLEINHOLTZ
+gn: Logan
+cn: Logan KLEINHOLTZ
+mobile: 0694231161
+mail: logan.kleinholtz@meublor3.local
+userPassword: klogan
+
+dn: uid=wenesimon.koese,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: wenesimon.koese
+sn: KOESE
+gn: Wene Simon
+cn: Wene Simon KOESE
+mobile: 0694231077
+mail: wenesimon.koese@meublor3.local
+userPassword: kwenesimon
+
+dn: uid=bruno.leger,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: bruno.leger
+sn: LEGER
+gn: Bruno
+cn: Bruno LEGER
+mobile: 0694541203
+mail: bruno.leger@meublor3.local
+userPassword: lbruno
+
+dn: uid=edzer.legerme,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: edzer.legerme
+sn: LEGERME
+gn: Edzer
+cn: Edzer LEGERME
+mobile: 0694230972
+mail: edzer.legerme@meublor3.local
+userPassword: ledzer
+
+dn: uid=cassantia.lequel,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: cassantia.lequel
+sn: LEQUEL
+gn: Cassantia
+cn: Cassantia LEQUEL
+mobile: 0694231164
+mail: cassantia.lequel@meublor3.local
+userPassword: lcassantia
+
+dn: uid=manyu.ling,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: manyu.ling
+sn: LING
+gn: Man Yu
+cn: Man Yu LING
+mobile: 0694231080
+mail: manyu.ling@meublor3.local
+userPassword: lmanyu
+
+dn: uid=lucas.litampha,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: lucas.litampha
+sn: LITAMPHA
+gn: Lucas
+cn: Lucas LITAMPHA
+mobile: 0694230975
+mail: lucas.litampha@meublor3.local
+userPassword: llucas
+
+dn: uid=esteban.lucien,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: esteban.lucien
+sn: LUCIEN
+gn: Esteban
+cn: Esteban LUCIEN
+mobile: 0694231149
+mail: esteban.lucien@meublor3.local
+userPassword: lesteban
+
+dn: uid=maëlle.mac,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: maëlle.mac
+sn: MAC
+gn: Maëlle
+cn: Maëlle MAC
+mobile: 0694231083
+mail: maëlle.mac@meublor3.local
+userPassword: mmaëlle
+
+dn: uid=jérémie.macabou,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: jérémie.macabou
+sn: MACABOU
+gn: Jérémie
+cn: Jérémie MACABOU
+mobile: 0694541236
+mail: jérémie.macabou@meublor3.local
+userPassword: mjérémie
+
+dn: uid=naween.maggan,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: naween.maggan
+sn: MAGGAN
+gn: Naween
+cn: Naween MAGGAN
+mobile: 0694231107
+mail: naween.maggan@meublor3.local
+userPassword: mnaween
+
+dn: uid=tommy.malande,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: tommy.malande
+sn: MALANDE
+gn: Tommy
+cn: Tommy MALANDE
+mobile: 0694231110
+mail: tommy.malande@meublor3.local
+userPassword: mtommy
+
+dn: uid=thomas.manioc,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: thomas.manioc
+sn: MANIOC
+gn: Thomas
+cn: Thomas MANIOC
+mobile: 0694231086
+mail: thomas.manioc@meublor3.local
+userPassword: mthomas
+
+dn: uid=louis.marc,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: louis.marc
+sn: MARC
+gn: Louis
+cn: Louis MARC
+mobile: 0694230978
+mail: louis.marc@meublor3.local
+userPassword: mlouis
+
+dn: uid=endryo.martinspalheta,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: endryo.martinspalheta
+sn: MARTINS PALHETA
+gn: Endryo
+cn: Endryo MARTINS PALHETA
+mobile: 0694230981
+mail: endryo.martinspalheta@meublor3.local
+userPassword: mendryo
+
+dn: uid=marc-djinha.michel,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: marc-djinha.michel
+sn: MICHEL
+gn: Marc-Djinha
+cn: Marc-Djinha MICHEL
+mobile: 0694230984
+mail: marc-djinha.michel@meublor3.local
+userPassword: mmarc-djinha
+
+dn: uid=nadine.mimba,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: nadine.mimba
+sn: MIMBA
+gn: Nadine
+cn: Nadine MIMBA
+mobile: 0694231089
+mail: nadine.mimba@meublor3.local
+userPassword: mnadine
+
+dn: uid=michael.morea-bresson,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: michael.morea-bresson
+sn: MOREA-BRESSON
+gn: Michael
+cn: Michael MOREA-BRESSON
+mobile: 0694230987
+mail: michael.morea-bresson@meublor3.local
+userPassword: mmichael
+
+dn: uid=orlando.murat,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: orlando.murat
+sn: MURAT
+gn: Orlando
+cn: Orlando MURAT
+mobile: 0694231113
+mail: orlando.murat@meublor3.local
+userPassword: morlando
+
+dn: uid=jamesky.noel,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: jamesky.noel
+sn: NOEL 
+gn: Jamesky
+cn: Jamesky NOEL 
+mobile: 0694231152
+mail: jamesky.noel@meublor3.local
+userPassword: njamesky
+
+dn: uid=jeanraymond.paul,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: jeanraymond.paul
+sn: PAUL
+gn: Jean Raymond
+cn: Jean Raymond PAUL
+mobile: 0694230990
+mail: jeanraymond.paul@meublor3.local
+userPassword: pjeanraymond
+
+dn: uid=kerenjy.paul,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: kerenjy.paul
+sn: PAUL
+gn: Kerenjy
+cn: Kerenjy PAUL
+mobile: 0694231167
+mail: kerenjy.paul@meublor3.local
+userPassword: pkerenjy
+
+dn: uid=roderson.petilien,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: roderson.petilien
+sn: PETILIEN
+gn: Roderson
+cn: Roderson PETILIEN
+mobile: 0694230993
+mail: roderson.petilien@meublor3.local
+userPassword: proderson
+
+dn: uid=adam.placide,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: adam.placide
+sn: PLACIDE
+gn: Adam
+cn: Adam PLACIDE
+mobile: 0694230996
+mail: adam.placide@meublor3.local
+userPassword: padam
+
+dn: uid=yodrees.polumar,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: yodrees.polumar
+sn: POLUMAR
+gn: Yodrees
+cn: Yodrees POLUMAR
+mobile: 0694231170
+mail: yodrees.polumar@meublor3.local
+userPassword: pyodrees
+
+dn: uid=samantha.pourpoint,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: samantha.pourpoint
+sn: POURPOINT
+gn: Samantha
+cn: Samantha POURPOINT
+mobile: 0694230999
+mail: samantha.pourpoint@meublor3.local
+userPassword: psamantha
+
+dn: uid=samuel.prudent,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: samuel.prudent
+sn: PRUDENT
+gn: Samuel
+cn: Samuel PRUDENT
+mobile: 0694231173
+mail: samuel.prudent@meublor3.local
+userPassword: psamuel
+
+dn: uid=anthony.pruys,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: anthony.pruys
+sn: PRUYS
+gn: Anthony
+cn: Anthony PRUYS
+mobile: 0694231116
+mail: anthony.pruys@meublor3.local
+userPassword: panthony
+
+dn: uid=shneigtder.rino,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: shneigtder.rino
+sn: RINO
+gn: Shneigtder
+cn: Shneigtder RINO
+mobile: 0694231119
+mail: shneigtder.rino@meublor3.local
+userPassword: rshneigtder
+
+dn: uid=vivien.robinet,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: vivien.robinet
+sn: ROBINET
+gn: Vivien
+cn: Vivien ROBINET
+mobile: 0694541185
+mail: vivien.robinet@meublor3.local
+userPassword: rvivien
+
+dn: uid=franck.roubaud,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: franck.roubaud
+sn: ROUBAUD
+gn: Franck
+cn: Franck ROUBAUD
+mobile: 0694541194
+mail: franck.roubaud@meublor3.local
+userPassword: rfranck
+
+dn: uid=mathias.rozga,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: mathias.rozga
+sn: ROZGA
+gn: Mathias
+cn: Mathias ROZGA
+mobile: 0694541239
+mail: mathias.rozga@meublor3.local
+userPassword: rmathias
+
+dn: uid=idris.sadli,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: idris.sadli
+sn: SADLI
+gn: Idris
+cn: Idris SADLI
+mobile: 0694541209
+mail: idris.sadli@meublor3.local
+userPassword: sidris
+
+dn: uid=keziah.saint-aignan,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: keziah.saint-aignan
+sn: SAINT-AIGNAN
+gn: Keziah
+cn: Keziah SAINT-AIGNAN
+mobile: 0694231176
+mail: keziah.saint-aignan@meublor3.local
+userPassword: skeziah
+
+dn: uid=sephora.saint-phart,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: sephora.saint-phart
+sn: SAINT-PHART
+gn: Sephora
+cn: Sephora SAINT-PHART
+mobile: 0694231179
+mail: sephora.saint-phart@meublor3.local
+userPassword: ssephora
+
+dn: uid=martine.sebeloue,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: martine.sebeloue
+sn: SEBELOUE
+gn: Martine
+cn: Martine SEBELOUE
+mobile: 0694541200
+mail: martine.sebeloue@meublor3.local
+userPassword: smartine
+
+dn: uid=berson.seide,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: berson.seide
+sn: SEIDE
+gn: Berson
+cn: Berson SEIDE
+mobile: 0694231002
+mail: berson.seide@meublor3.local
+userPassword: sberson
+
+dn: uid=tyron.sexe,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: tyron.sexe
+sn: SEXE
+gn: Tyron
+cn: Tyron SEXE
+mobile: 0694231005
+mail: tyron.sexe@meublor3.local
+userPassword: styron
+
+dn: uid=thomas.soupama,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: thomas.soupama
+sn: SOUPAMA
+gn: Thomas
+cn: Thomas SOUPAMA
+mobile: 0694231008
+mail: thomas.soupama@meublor3.local
+userPassword: sthomas
+
+dn: uid=benjamin.soutou,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: benjamin.soutou
+sn: SOUTOU
+gn: Benjamin
+cn: Benjamin SOUTOU
+mobile: 0694231182
+mail: benjamin.soutou@meublor3.local
+userPassword: sbenjamin
+
+dn: uid=lukas.stankowich,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: lukas.stankowich
+sn: STANKOWICH
+gn: Lukas
+cn: Lukas STANKOWICH
+mobile: 0694231092
+mail: lukas.stankowich@meublor3.local
+userPassword: slukas
+
+dn: uid=ollivier.tamarin,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: ollivier.tamarin
+sn: TAMARIN
+gn: Ollivier
+cn: Ollivier TAMARIN
+mobile: 0694541197
+mail: ollivier.tamarin@meublor3.local
+userPassword: tollivier
+
+dn: uid=wilderson.theodore,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: wilderson.theodore
+sn: THEODORE
+gn: Wilderson
+cn: Wilderson THEODORE
+mobile: 0694231095
+mail: wilderson.theodore@meublor3.local
+userPassword: twilderson
+
+dn: uid=koob-tsheej.thondxong,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: koob-tsheej.thondxong
+sn: THO NDXONG
+gn: Koob-Tsheej
+cn: Koob-Tsheej THO NDXONG
+mobile: 0694231035
+mail: koob-tsheej.thondxong@meublor3.local
+userPassword: tkoob-tsheej
+
+dn: uid=rayan.valentin,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: rayan.valentin
+sn: VALENTIN
+gn: Rayan
+cn: Rayan VALENTIN
+mobile: 0694231098
+mail: rayan.valentin@meublor3.local
+userPassword: vrayan
+
+dn: uid=enzo.vanovermeir,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: enzo.vanovermeir
+sn: VANOVERMEIR
+gn: Enzo 
+cn: Enzo  VANOVERMEIR
+mobile: 0694231011
+mail: enzo.vanovermeir@meublor3.local
+userPassword: venzo
+
+dn: uid=gamalielguito.vibert,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: gamalielguito.vibert
+sn: VIBERT
+gn: Gamaliel Guito
+cn: Gamaliel Guito VIBERT
+mobile: 0694231014
+mail: gamalielguito.vibert@meublor3.local
+userPassword: vgamalielguito
+
+dn: uid=merick.waya,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: merick.waya
+sn: WAYA
+gn: Merick
+cn: Merick WAYA
+mobile: 0694231122
+mail: merick.waya@meublor3.local
+userPassword: wmerick
+
+dn: uid=jean-pierre.william,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: jean-pierre.william
+sn: WILLIAM
+gn: Jean-Pierre
+cn: Jean-Pierre WILLIAM
+mobile: 0694541182
+mail: jean-pierre.william@meublor3.local
+userPassword: wjean-pierre
+
+dn: uid=tshuam.yasaipo,ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: person
+objectClass: inetOrgPerson
+uid: tshuam.yasaipo
+sn: YA SAI PO
+gn: Tshuam
+cn: Tshuam YA SAI PO
+mobile: 0694231038
+mail: tshuam.yasaipo@meublor3.local
+userPassword: ytshuam
+
