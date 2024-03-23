@@ -1,0 +1,6 @@
+dn: ou=People,dc=meublor3,dc=local
+objectClass: top
+objectClass: organizationalUnit
+description: Branche People
+ou: People
+
